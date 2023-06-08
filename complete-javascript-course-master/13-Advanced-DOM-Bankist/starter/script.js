@@ -32,6 +32,7 @@ document.addEventListener('keydown', function (e) {
 
 // ///////////////////////////////////////////
 // 186. Selecting, Creating and Deleting Elements
+/*
 console.log(document.documentElement);
 console.log(document.head);
 console.log(document.body);
@@ -45,8 +46,10 @@ const allButtons = document.getElementsByTagName('button');
 console.log(allButtons);
 
 console.log(document.getElementsByClassName('btn'));
+*/
 
 // Creating and inserting elements
+/*
 const message = document.createElement('div');
 message.classList.add('cookie-message');
 message.textContent = 'We use cookies for improved functionality and analytics';
@@ -67,6 +70,7 @@ document
     // message.remove();
     message.parentElement.removeChild(message);
   });
+*/
 
 // 187. Styles, Attributes and Classes
 // Styles
@@ -120,6 +124,7 @@ logo.className = 'jonas';
 */
 
 // 188. Implementing Smooth Scrolling
+/*
 const btnScrollTo = document.querySelector('.btn--scroll-to');
 const section1 = document.querySelector('#section--1');
 
@@ -166,8 +171,31 @@ setTimeout(() => h1.removeEventListener('mouseenter', alertH1), 3000);
 // h1.onmouseenter = function (e) {
 //   alert('onmouseenter: Great! You are reading the heading :D');
 // };
+*/
 
 // 190. Event Propagation in Practice
 // rgb(255, 255, 255)
 const randomInt = (min, max) =>
   Math.floor(Math.random() * (max - min + 1) + min);
+const randomColor = () =>
+  `rgb(${randomInt(0, 255)}, ${randomInt(0, 255)},${randomInt(0, 255)})`;
+console.log(randomColor(0, 255));
+
+document.querySelector('.nav__link').addEventListener('click', function (e) {
+  this.style.backgroundColor = randomColor();
+  console.log('LINK', e.target, e.currentTarget);
+  console.log(e.currentTarget === this);
+
+  // Stop propagation
+  e.stopPropagation();
+});
+
+document.querySelector('.nav__links').addEventListener('click', function (e) {
+  this.style.backgroundColor = randomColor();
+  console.log('CONTAINER', e.target, e.currentTarget);
+});
+
+document.querySelector('.nav').addEventListener('click', function (e) {
+  this.style.backgroundColor = randomColor();
+  console.log('NAV', e.target, e.currentTarget);
+});
