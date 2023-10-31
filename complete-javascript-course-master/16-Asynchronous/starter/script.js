@@ -260,6 +260,7 @@ Promise.resolve('Resolved promise 2').then(res => {
 console.log('Test end');
 */
 
+/* 
 const lotteryPromise = new Promise(function (resolve, reject) {
   console.log('Lottery draw is happening 🔮');
   setTimeout(function () {
@@ -310,3 +311,50 @@ wait(1)
 
 Promise.resolve('abc').then(x => console.log(x));
 Promise.reject(new Error('Problem!')).catch(x => console.error(x));
+*/
+
+const getPosition = function () {
+  return new Promise(function (resolve, reject) {
+    // navigator.geolocation.getCurrentPosition(
+    //   position => resolve(position),
+    //   err => reject(err)
+    // );
+    navigator.geolocation.getCurrentPosition(resolve, reject);
+  });
+};
+
+// getPosition().then(pos => console.log(pos));
+
+const whereAmI = function () {
+  getPosition()
+    .then(pos => {
+      const { latitude: lat, longitude: lng } = pos.coords;
+      console.log(lat, lng);
+      console.log(pos);
+      return fetch(`https://geocode.xyz/${lat},${lng}?geoit=json`);
+    })
+    .then(async res => {
+      try {
+        console.log(res);
+        if (!res.ok) throw new Error(`Problem with geocoding ${res.status}`);
+        const data = await res.json();
+        console.log(data);
+        console.log(`You are in ${data.city}, ${data.country}`);
+
+        const countryRes = await fetch(
+          `https://restcountries.com/v3.1/name/${data.country}`
+        );
+        if (!countryRes.ok)
+          throw new Error(`Country not found (${countryRes.status})`);
+
+        const countryData = await countryRes.json();
+        renderCountry(countryData[0]);
+        console.log(countryData);
+      } catch (err) {
+        console.error(`${err.message} 💥`);
+      }
+    })
+    .catch(err => console.error(`${err.message} 💥`));
+};
+
+btn.addEventListener('click', whereAmI);
