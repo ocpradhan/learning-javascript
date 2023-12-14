@@ -1,4 +1,3 @@
-import { async } from 'regenerator-runtime';
 import { API_URL } from './config.js';
 import { getJSON } from './views/helpers.js';
 
@@ -7,6 +6,7 @@ export const state = {
 };
 
 export const loadRecipe = async function (id) {
+  console.log(id);
   try {
     const data = await getJSON(`${API_URL}/${id}`);
 
