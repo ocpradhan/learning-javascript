@@ -1,9 +1,9 @@
-9632
+9633
 141C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\sass\_header.scss133322443341697203 0
 163C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-service-worker133465067653307940 1
 179C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\intl-pluralrules.js133465067702159308 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\tokenizer\types.js133465067693131369 0
-124C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist133491808031986131 1
+124C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist133491859239179313 1
 167C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\trim-left.js133467506163754496 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\syntax\node\common133465067671231946 1
 182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\package.json133465067659622071 0
@@ -13,6 +13,9 @@
 163C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_ts_param.mjs133465067700410507 0
 156C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\json5\dist\index.min.js133465067655138557 0
 154C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\profiler\test133465067659733407 1
+150C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js133491859231649757 0
+147C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\LICENSE133465067652898970 0
+149C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\error133467506161516005 1
 196C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt133465067684895992 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\flat.js133467506122381073 0
 152C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\parcel\package.json133465067658108023 0
@@ -99,7 +102,7 @@
 213C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133465067667705977 0
 173C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\generator133465067681624328 1
 204C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config\lexer.js133465067677729914 0
-130C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\index.html133487473204004870 0
+130C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\index.html133491815009807368 0
 174C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\filter-reject.js133467506119219475 0
 169C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\AssetGraph.test.js133465067667979930 0
 182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\domutils\lib\traversal.js133465067663907746 0
@@ -213,7 +216,7 @@
 163C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\_\_inherits_loose133465067693131369 1
 183C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\code-frame\node_modules\chalk\index.js.flow133465067651039137 0
 154C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\clean\Raw.js133465067678706816 0
-132C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\views133487403166956756 1
+132C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\views133491813949707090 1
 147C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dom-serializer133465067661005971 1
 173C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133465067649091949 1
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\trim-right.js133467506164124271 0
@@ -268,7 +271,7 @@
 137C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass133465068155965132 1
 186C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\generator\sourceMap.js133465067692147140 0
 174C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.symbol.to-primitive.js133467506109167354 0
-140C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133491807352236969 0
+140C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133491817458706893 0
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax133465067688655391 1
 161C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\dom-exception133467506161286145 1
 148C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\chalk\readme.md133465067656715563 0
@@ -278,9 +281,9 @@
 137C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\helpers.js133474591980141078 0
 193C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133465067682979423 0
 152C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\parse-json\index.js133465067649705335 0
-135C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\model.js133491808031505897 0
+135C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\model.js133491811595864196 0
 158C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\dist\svgo.browser.js133465067661605205 0
-143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133491806223982293 0
+143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133491859237565621 0
 146C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\src\js\views\searchView.js133487400880469952 0
 156C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\picocolors\package.json133465067652646003 0
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\removeEmptyContainers.js133465067675975390 0
@@ -1790,7 +1793,6 @@
 187C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\domutils\lib\esm\querying.d.ts133465067674860502 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\lib\quick-sort.js133465067657407803 0
 161C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\nth-check\lib\parse.d.ts.map133465067664207260 0
-161C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw\LICENSE133465067648766102 0
 153C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\semver\ranges\ltr.js133465067666121043 0
 173C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\lib\source-map-consumer.js133465067658974646 0
 188C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\code-frame\node_modules\supports-color\readme.md133465067654313516 0
@@ -1949,9 +1951,6 @@
 150C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass\sass.dart.js133465068155767734 0
 154C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass\sass.default.cjs133465068154992569 0
 169C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.math.umulh.js133467506115420061 0
-176C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\generated\decode-data-xml.d.ts133465067666352892 0
-171C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.group-by.js133467506114688796 0
-167C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\legacy\plugin_this.d.ts133465068157230290 0
 143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types133465068157230290 1
 174C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\number\virtual\to-fixed.js133467506158544769 0
 183C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133465067654647797 0
@@ -2008,6 +2007,9 @@
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\legacy\importer.d.ts133465068156568358 0
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\restructure\1-mergeAtrule.js133465067672307140 0
 162C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\math\fround.js133467506124653570 0
+176C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\generated\decode-data-xml.d.ts133465067666352892 0
+171C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.group-by.js133467506114688796 0
+167C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\sass\types\legacy\plugin_this.d.ts133465068157230290 0
 155C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\safe-buffer\index.d.ts133465067654809122 0
 153C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\safe-buffer\index.js133465067649705335 0
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.to-reversed.js133467506100372325 0
@@ -3090,8 +3092,8 @@
 157C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\helpers.mjs133465067678206043 0
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\typed-array\index.js133467506131135191 0
 157C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-css\src133465067651308240 1
-166C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\trim-right.js133467506164169450 0
 171C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.map.find-key.js133467506114599239 0
+166C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\string\trim-right.js133467506164169450 0
 167C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\array\virtual\sort.js133467506154255322 0
 158C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\htmlnano.cjs133465067660516329 0
 175C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.json.is-raw-json.js133467506114328994 0
@@ -3159,10 +3161,6 @@
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\removeComments.mjs133465067680129244 0
 179C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\removeEmptyAttributes.cjs133465067666540549 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\AE.js133465067659347974 0
-182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\reflect\get-own-property-descriptor.js133467506125608245 0
-164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\convertor\index.js133465067688317978 0
-176C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\selection-api.js133465067711042281 0
-166C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\match-graph.js133465067689857710 0
 176C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\removeOptionalTags.mjs133465067680310054 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\BO.js133465067677007410 0
 183C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\lib\modules\removeRedundantAttributes.mjs133465067680458176 0
@@ -3397,8 +3395,6 @@
 166C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\substr.js133467506156473043 0
 149C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\config.js133465067650957914 0
 143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\lib133465067658255075 1
-147C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\LICENSE133465067652898970 0
-149C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\error133467506161516005 1
 152C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\dotenv\package.json133465067648606985 0
 179C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.typed-array.uint16-array.js133467506110410034 0
 166C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.reflect.get.js133467506105954902 0
@@ -4207,6 +4203,10 @@
 160C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\error.js133465067686410048 0
 192C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\esm\_class_static_private_field_destructure.js133465067682342555 0
 169C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\generic-urange.js133465067687306956 0
+182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\reflect\get-own-property-descriptor.js133467506125608245 0
+164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\convertor\index.js133465067688317978 0
+176C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\selection-api.js133465067711042281 0
+166C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\match-graph.js133465067689857710 0
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_async_generator.mjs133465067697007327 0
 160C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\lexer\match.js133465067689991930 0
 178C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-containment.js133465067684206883 0
@@ -5153,7 +5153,7 @@
 162C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\array\slice.js133467506152856169 0
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\find-last-index.js133467506120582697 0
 163C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\fontcolor.js133467506122646483 0
-135C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.html133491806224112735 0
+135C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.html133491859236753163 0
 161C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\find.js133467506121510083 0
 162C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\index.js133467506132125362 0
 170C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\last-index-of.js133467506140109380 0
@@ -5596,7 +5596,7 @@
 180C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs133465067676675842 0
 182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\src\_initializer_define_property.mjs133465067699007165 0
 178C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.promise.all-settled.js133467506115581005 0
-142C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133491808031940709 0
+142C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133491856707506407 0
 182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.reflect.define-metadata.js133467506115636127 0
 160C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\events\package.json133465067661909924 0
 179C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-first-letter.js133465067685727318 0
@@ -5978,7 +5978,7 @@
 169C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\from-hex.js133467506124130092 0
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\int16-array.js133467506132819520 0
 169C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\iterator.js133467506137781431 0
-145C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133491806224492846 0
+145C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133491859237555418 0
 165C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\typed-array\keys.js133467506139544800 0
 152C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\function133467506144215602 1
 205C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Rule.js133465067681624328 0
@@ -6670,7 +6670,7 @@
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\trim.js133467506164649671 0
 182C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\es6-string-includes.js133465067696642349 0
 167C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@swc\helpers\cjs\_create_super.cjs133465067670744107 0
-143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133491806223972285 0
+143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133491859237149952 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\set\add-all.js133467506073784097 0
 167C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\set\difference.js133467506093611423 0
 169C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\instance\match-all.js133467506141962059 0
@@ -8744,6 +8744,7 @@
 157C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-svg\src133465067651308240 1
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-svg\lib\SVGPackager.js133465067650143395 0
 157C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw\lib133465067649816740 1
+161C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw\LICENSE133465067648766102 0
 157C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw\src133465067651308240 1
 203C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\attributes.d.ts133465067667979930 0
 172C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw\src\RawPackager.js133465067652133622 0
@@ -9626,8 +9627,8 @@
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db.cmd133465067722642281 0
 164C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\update-browserslist-db.ps1133465067722642281 0
 151C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.19416.et133487473220934273 0
-146C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133491808031976142 0
-143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133491806224149822 0
-147C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133491806224185110 0
-142C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133491806223997406 0
+146C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133491856707556384 0
+143C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133491859239073563 0
+147C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133491859239159029 0
+142C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133491859236000373 0
 148C:\Users\OnesimusChandraPradh\Documents\GitHub\learning-javascript\complete-javascript-course-master\18-forkify\starter\dist\starter.3464ddca.js.map133465068194365508 0
